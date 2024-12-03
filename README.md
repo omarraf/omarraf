@@ -4,6 +4,5 @@
 
 Studying computer science and interested in using technology to solve real world problems.  
 
-- 💻 Currently learning Go
 - 📌 Interests: Full-stack development, Bioinformatics, Machine Learning, Algorithms, Contributing to Open-Source 
-- ✍️ Blog Posts: Coming soon!
+
