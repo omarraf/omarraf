@@ -4,5 +4,5 @@
 
 Studying computer science and interested in using technology to solve real world problems.  
 
-- 📌 Interests: Full-stack development, Bioinformatics, Machine Learning, Algorithms, Contributing to Open-Source 
+- 📌 Interests: Full-stack development, bioinformatics, machine learning, algorithms, open source
 
