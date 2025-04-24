@@ -1,5 +1,4 @@
 ## Hello, I'm Omar 👋
 
-Studying computer science and interested in using technology to solve real world problems.
-
+Passionate about building software people actually use
 
